@@ -6,3 +6,4 @@ Rabbit
 Agung
 Hendro
 Bakti is Dog
+Soleh
